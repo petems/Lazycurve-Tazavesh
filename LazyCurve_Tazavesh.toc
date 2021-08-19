@@ -4,6 +4,7 @@
 ## Notes: Tazavesh module for LazyCurve, disable if you don't want those achievement showing up
 ## Author: petems
 ## X-License: GNU General Public License version 3 (GPLv3)
+## X-Curse-Project-ID: 517721
 
 ## RequiredDeps: LazyCurve
 
