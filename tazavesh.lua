@@ -29,6 +29,3 @@ function LazyCurveTazavesh:GetInfoTable()
     }
     return infoTable
 end
-
-
-
